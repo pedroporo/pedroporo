@@ -48,6 +48,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/pedroporo/pedroporo/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/pedroporo/pedroporo/refs/heads/output/snake.svg" alt="Snake animation" />
 
 ###
