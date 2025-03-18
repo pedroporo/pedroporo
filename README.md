@@ -11,7 +11,7 @@
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+<img align="right" height="150" src="https://github.com/pedroporo/DiscordRPCtokenAuth/blob/main/img/226610825.gif"  />
 
 ###
 
